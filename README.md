@@ -2,7 +2,7 @@
 
 > LLM & Agentic Orchestration AI framework for multi-modal creative content generation.
 
-![ArX Core Preview](media/previews.png)
+![ArX Core Preview](media/previews.jpg)
 
 ## Overview
 
